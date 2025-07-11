@@ -65,3 +65,10 @@ figure {
 figure img {
     max-width: 100%;
 }
+
+/* Definisce lo stile del font quindi italic, spazia sopra il figcaption e ne definisce il colore */
+figcaption {
+    font-style: italic;
+    margin-top: 5px;
+    color: rgb(56, 56, 56);
+}
