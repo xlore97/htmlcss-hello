@@ -80,3 +80,13 @@ figcaption {
 ul {
     margin-left: 20px;
 }
+
+/* Struttura footer */
+
+/* Centra il testo, definisce il colore nero, aggiunge spazio sopra, Rimpicciolisce il font */
+footer {
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+    font-size: 0.9rem;
+}
