@@ -73,3 +73,10 @@ figcaption {
     margin-top: 5px;
     color: rgb(56, 56, 56);
 }
+
+/* Struttura lista */
+
+/* Sposta la lista verso destra aggiungendo spazio a sinistra */
+ul {
+    margin-left: 20px;
+}
