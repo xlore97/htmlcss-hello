@@ -30,3 +30,14 @@ main {
     max-width: 900px;
     margin: 0 auto;
 }
+
+/* Struttura section */
+
+/* Aggiunge un colore di sfondo ai tag section, una spaziatura all'interno, smussa gli angoli, separa ogni section sul basso, aggiunge un ombra intorno al section */
+section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
